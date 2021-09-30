@@ -9,5 +9,4 @@ public abstract class Shape {
         this.y = y;
     }
     
-    public abstract double area();
 }
